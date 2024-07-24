@@ -39,6 +39,8 @@ Dataset is provided by **[Columbia University](https://people.dbmi.columbia.edu/
 ### Skin Cancer Detection
 Dataset is provided by **[Harvard Health](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T)** and is a dataset of 10,000+ images of various different types of skin cancer, namely: Basal cell carcinoma, Dermatofibroma, Melanoma, Melanocytic nevi, Vascular lesions, Benign keratosis-like lesions, Actinic keratoses and intraepithelial carcinom.
 
+Check out our Skin Cancer [Source Code](https://colab.research.google.com/drive/183FIHf19cEKYZKD3vcst4qfwKQCSkKYg?usp=sharing) and [Video Tutorial of Skin Cancer](https://www.youtube.com/watch?v=xU_rFDf2c2E)
+
 ### Graphs [`↩`](#jumpto)
 
 ![](/images/graph1.png)
